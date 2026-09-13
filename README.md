@@ -1,7 +1,9 @@
 <!-- Header -->
 <h1 align="left"> Hello, I'm Luna 🌕⚡</h1>
 
-I’m a 2nd-year Electrical Engineering student @ **University of Waterloo**. I like embedded systems, PCB design (Altium), and sensor/DAQ projects (LabJack, I2C). Currently building a NiceGUI-based gas sensor characterization app. I am also interested in the design of User Interface for website!
+I’m a 3rd-year Electrical Engineering student at **University of Waterloo** with a strong interest in embedded systems, firmware, and robotics. I enjoy working with STM32, FreeRTOS, sensors, communication interfaces, and PCB design.
+
+My recent work includes STM32-based firmware development, real-time data acquisition, hardware debugging, and FPGA design. I’m especially interested in building reliable systems that connect software with real hardware.
 
 ---
 
@@ -19,10 +21,13 @@ I’m a 2nd-year Electrical Engineering student @ **University of Waterloo**. I 
 
 
 
-### 🔖 Featured Projects
-- **Gas Sensor Characterization GUI** – Real-time plots, DAQ control, I2C sensor integration.  
-- **Smart Sprout** – Arduino-based auto watering with relay control and moisture sensing.  
-- **BEC PCB** – DC-DC power module schematic & component selection in Altium.
+### 📌 Featured Projects
+
+- **Portable Test Instrument** – STM32 + FreeRTOS system combining oscilloscope, waveform generation, and measurement functions using ADC/DMA, DAC/DMA, PWM, and SPI.
+
+- **Irrigation Embedded System** – STM32-based control system using timers, interrupts, UART, PWM, ADC, ultrasonic sensing, and real-time telemetry.
+
+- **Digital Traffic Signal Controller** – FPGA/VHDL traffic controller built with a 16-state FSM, synchronizers, debouncing logic, and timing verification in Quartus.
 
 
 ---
